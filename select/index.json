@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "がらくた讃歌",
+  "base_artist": "Hump Back",
+  "createdAt": "2026-03-27T04:09:08.327977Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "がらくた讃歌",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/pl_01_がらくた讃歌_Hump_Back.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "がらくた讃歌",
+      "artist": "Hump Back",
+      "has_synced": false,
+      "path": "select/localdb_01_がらくた讃歌_Hump_Back.txt",
+      "repo_name": "XtuzSsFWKik"
+    }
+  ]
+}
